@@ -15,7 +15,7 @@ I'm an explorer from **Xidian University**, majoring in Electronic Information.
 
 ---
 **📫 How to reach me:**
-*   Email: [3471856914@qq.com]
+*   Email: [YvesYao0209#foxmail.com]
 
 > *"Seeking the optimal solution between rigorous electronic science and a free-spirited, interesting soul."*
 
