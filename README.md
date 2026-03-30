@@ -8,16 +8,16 @@ I'm an explorer from **Xidian University**, majoring in Electronic Information.
 *   **Efficient & Direct**: Believes in direct communication and efficiency, viewing "wit" as the best catalyst for effective collaboration.
 
 **🎯 Current Status**
-*   🔭 **Currently Exploring**: Web full-stack technologies,AI applications, electronic information engineering and technology,physics.
+*   🔭 **Currently Exploring**: Embodied Intelligence,Web full-stack technologies,AI applications, electronic information engineering and technology,physics.
 *   👯 **Looking to Collaborate on**: Open-source projects, interesting hardware-software projects, or any challenging ideas!
 *   🤔 **Thinking About**: How to use code and technology to make life or a certain field "a bit more interesting".
-*   ⚡ **Fun Fact**: I believe serious technology and a fun soul are not mutually exclusive. For instance, I might try writing poetry with algorithms or making a pointless stress-relief toy with a circuit board.
+*   ⚡ **Fun Fact**: I believe serious technology and a fun soul are not mutually exclusive. 
 
 ---
 **📫 How to reach me:**
 *   Email: [YvesYao0209@foxmail.com]
 
-> *"Seeking the optimal solution between rigorous electronic science and a free-spirited, interesting soul."*
+> *"Hungry and humble"*
 
 Open to discussing ideas, potential collaborations, or simply having a tech talk! ✨
 
